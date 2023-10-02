@@ -69,6 +69,31 @@ Enfin, cette expérience m'a permis de voir mes matières d'un nouvel œil et de
 En somme, ce stage ne constitue pas seulement une exigence académique, mais une opportunité d'apprentissage précieuse et un pas de plus vers ma future carrière.
 
 
+il y a une transport personnel Chez Mada ITEC pour les employeurs qui leur transport le matin pour arrivé à Mada ITEC le matin et le soir aussi pour arrivé à la maison. Et on a droit aussi d'un repat avec une dessert et un diner chaque jour. et on a droit aussi à l'éléctricité et à l'eau.
+
+
+Le bureau que j'ai utilisé est un bureau de type Workstation Dans une grande salle qui est à côté des bureaux des autres qui sont des sourcines, et mon bureau a droit à une nettoyages assuré par le personnel du locataire principal.
+
+Mon espace de travail était situé dans une grande salle à côté des bureaux d'autres collaborateurs qui occupaient des postes de type "sourcine". Mon propre bureau était configuré comme un poste de travail Workstation dédié. J'avais la chance de bénéficier d'un service de nettoyage régulier assuré par le personnel de l'entreprise locataire principale, ce qui contribuait à maintenir un environnement de travail propre et bien entretenu.
+
+
+Mon outil principal chez Mada ITEC est mon ordinateur portable suivi d'un deuxième écran de la marque HP 1000 Notebook PC avec un processeur Intel(R) Core(TM) i3-2328 CPU @ 2.2GHz(4 CPUs), un Mémoire vive de 4096Mo et d'un graphique total de 3042Mo. J'utilise un système d'exploitation Ubuntu Linux.
+
+Mon outil principal au sein de Mada ITEC est mon ordinateur portable, auquel j'ai ajouté un deuxième écran de la marque HP, modèle 1000 Notebook PC. Mon ordinateur portable est équipé d'un processeur Intel(R) Core(TM) i3-2328 CPU fonctionnant à 2.2 GHz (4 cœurs), une mémoire vive de 4096 Mo, et une carte graphique offrant une capacité totale de 3042 Mo. Mon système d'exploitation est Ubuntu Linux
+
+j'utilise aussi un casque de qui était vraiment utile pour moi, Car pendant le déroulement du stage ils m'ont donner des cours a apprendre chez le site web UDEMY pour la réalisation du projet. Et pour que cela ne fait pas trop de bruit pour embêter les autres, alors c'est vraiment utile.
+
+J'ai également utilisé un casque qui s'est avéré être un outil extrêmement précieux pendant mon stage. Cela s'est avéré particulièrement utile parce que, au cours de mon stage, j'ai été invité à suivre des cours en ligne sur le site web UDEMY pour acquérir les compétences nécessaires à la réalisation de mon projet. Pour ne pas perturber mes collègues de travail avec le bruit des cours en ligne, le casque s'est avéré être une solution très pratique.
+
+
+On dispose d'un connexion internet sans file de haut débit est à la fois peut être cablé par une cable Ethernet à partir du Switch pour partager le connexion.
+
+Nous avons accès à une connexion Internet haut débit, qui peut être utilisée de manière sans fil ou câblée via un câble Ethernet à partir du commutateur (switch) pour partager la connexion
+
+
+Chez Mada ITEC, on utilise une connexion Wifi alimenté par une fibre optique. La fibre optique est un fil de verre ou de plastique servent de guide à un signal lumineux qui va permetre de transmettre des information et des données à vitesse très élevée et sans risque de perturbations. L'alimentation d'un réseau WiFi par une fibre optique permet d'obtenir des performances bien supérieures à celle d'une connexion classique. La fibre optique représente un support qualitatif pour offrir des débits élevés à tous les utilisateurs du réseau.
+
+À Mada ITEC, nous utilisons une connexion Wi-Fi alimentée par une infrastructure en fibre optique. La fibre optique est constituée d'un filament de verre ou de plastique qui sert de guide à un signal lumineux, permettant ainsi la transmission rapide et sans perturbations des informations et des données. Cette alimentation du réseau Wi-Fi par une infrastructure en fibre optique offre des performances bien supérieures à celles d'une connexion traditionnelle. La fibre optique est un support de qualité qui permet d'offrir des débits élevés à tous les utilisateurs du réseau.
 
 
 

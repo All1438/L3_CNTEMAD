@@ -1,0 +1,37 @@
+{
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.enableSmartCommit": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "material-icon-theme",
+    "redhat.telemetry.enabled": true,
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.defaultLanguage": "markdown",
+    "explorer.autoReveal": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "editor.fontFamily": " Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 28,
+    "editor.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "[Tokyo Night]": {
+            "editor.background": "#3D59A1",
+            "editor.selectionHighlightBackground": "#3D59A1"
+        }
+    }
+}
