@@ -50,7 +50,7 @@ Cela m'a permis de voir mes matières d'un nouvel oeil et de découvrir de nouve
 Au-delà de l'aspect académique, ce stage représente une chance précieuse de développer mon réseau professionnel. Les relations que j'ai tissées au sein de l'entreprise pourront, à l'avenir, se révéler d'une grande utilité. Elles me permettront de solliciter des conseils avisés, de capitaliser sur l'expérience de mes pairs, d'apprendre les meilleures pratiques, d'éviter les pièges courants, ou même d'explorer des opportunités professionnelles futures. Certaines de ces relations pourraient même m'aider à décrocher un emploi dans le futur.
 Il est important de souligner que ce stage ne se résume pas à une simple ligne sur mon curriculum vitae. Il représente l'occasion de mettre en avant les compétences acquises et les réalisations accomplies au cours de cette expérience. Les employeurs accordent souvent une grande valeur à l'expérience pratique, et cette période de stage me permet de démontrer concrètement ce que je peux apporter à une organisation.
 De plus, ce stage me permet de passer de la théorie à la pratique. Il s'agit d'une opportunité exceptionnelle d'appliquer les connaissances théoriques acquises pendant mes cours à des problématiques réelles en entreprise. Cela signifie que je peux véritablement concrétiser ce que j'ai appris, en apportant des solutions concrètes aux défis auxquels l'entreprise est confrontée.
-Enfin, cette expérience m'a permis de voir mes matières d'un nouvel œil et de développer de nouveaux centres d'intérêt. Elle renforce également mes compétences, ce qui est essentiel pour le marché du travail, notamment dans des postes liés au développement d'applications.
+Enfin, cette expérience m'a permis de voir mes matières d'un nouvel œil et de développer de nouveaux centres d'intérêt. Elle renforce également mes compétences, ce qui est essentiel pour le marché du travail, notamment dans des postes liés au développement de logiciel.
 En somme, ce stage ne constitue pas seulement une exigence académique, mais une opportunité d'apprentissage précieuse et un pas de plus vers ma future carrière."
 
 
@@ -91,15 +91,64 @@ On dispose d'un connexion internet sans file de haut débit est à la fois peut 
 Nous avons accès à une connexion Internet haut débit, qui peut être utilisée de manière sans fil ou câblée via un câble Ethernet à partir du commutateur (switch) pour partager la connexion
 
 
+problématiques rencontrées
+Pendant la première semaines ont été plus dificiles, car il y a certain temps d'adaptation du fait que l'on change de rythme de vie. Tout d'abord ils ont conseillé d'apprendre des nouvelles outils informatique comme Docker, Car dans le projet il est nécessaire d'utiliser Docker est pour moi c'est la première fois que je l'utilise. # CMS
+
+
 Chez Mada ITEC, on utilise une connexion Wifi alimenté par une fibre optique. La fibre optique est un fil de verre ou de plastique servent de guide à un signal lumineux qui va permetre de transmettre des information et des données à vitesse très élevée et sans risque de perturbations. L'alimentation d'un réseau WiFi par une fibre optique permet d'obtenir des performances bien supérieures à celle d'une connexion classique. La fibre optique représente un support qualitatif pour offrir des débits élevés à tous les utilisateurs du réseau.
 
 À Mada ITEC, nous utilisons une connexion Wi-Fi alimentée par une infrastructure en fibre optique. La fibre optique est constituée d'un filament de verre ou de plastique qui sert de guide à un signal lumineux, permettant ainsi la transmission rapide et sans perturbations des informations et des données. Cette alimentation du réseau Wi-Fi par une infrastructure en fibre optique offre des performances bien supérieures à celles d'une connexion traditionnelle. La fibre optique est un support de qualité qui permet d'offrir des débits élevés à tous les utilisateurs du réseau.
 
 
+problématiques rencontrées
+Pendant la première semaines ont été plus dificiles, car il y a certain temps d'adaptation du fait que l'on change de rythme de vie. Tout d'abord ils ont conseillé d'apprendre des nouvelles outils informatique comme Docker, Car dans le projet il est nécessaire d'utiliser Docker est pour moi c'est la première fois que je l'utilise. # CMS
 
 
+Presentation du CNTEMAD et de l'entreprise d'acceuil
+Dans cette première partie, il s'agira de faire une presentation en première partie de l'université à l'aquelle j'étudie qui se nomme CNTEMAD, une université de tété-enseignement qui régit sous l'administration d'un conseil composé par des représentant ministère (MESUPRES, MFPLTS), de la Fédération des chambres du commerce et de l'industrie Malagasy des Six Universités publiques. Et en deuxième partie la présentation de l'entreprise d'acceuil nommé Mada e-tech une agence de recrutement spécialiser dans le travail.
+
+Dans cette première partie, nous débuterons par une présentation de mon université, le CNTEMAD. Il s'agit d'une université de télé-enseignement, placée sous l'administration d'un conseil composé de représentants ministériels (MESUPRES, MFPLTS), de la Fédération des Chambres du Commerce et de l'Industrie Malagasy, ainsi que des représentants des Six Universités publiques.Ensuite, dans la deuxième partie, nous aborderons la présentation de l'entreprise d'accueil, Mada e-tech. Cette entreprise est spécialisée dans le recrutement et fournit des services liés au travail.
 
 
+Presentation Mada e-tech
+Mada e-tech est une agence en système d'information pour les jeunes diplomé en France ou des adultes moins de 35ans a la recherche d'un emploi ou à des formations et aussi l'accompagnement des entreprises dans leurs besoins en recrutement. Ils sont là pour les dirigers leurs parcours afin qu'ils puissent être en capacité de travaillé en système d'information. Le système d'information (SI) est un concept central dans le domaine de l'informatique et de la gestion d'entreprise.
+
+Ils sont en partenarit avec 2 agences qui ne sont pas à Madagascar mais qui se trouve en France qui sont Village de l'emploi et Pôle emploie. village de l'emploi pour désigner des centres ou des plateformes en ligne où les demandeurs d'emploi peuvent accéder à des offres d'emploi, à des formations, à des services de conseil en emploi, à des ateliers de recherche d'emploi, et à d'autres ressources liées à l'emploi. et Pôle emploi est l'agence nationale pour l'emploi en France. Il s'agit d'un service public qui a pour mission principale de faciliter la recherche d'emploi pour les demandeurs d'emploi et d'accompagner les entreprises dans leurs besoins en recrutement.
+En somme, ils remplissant un rôle central dans la facilitation de la recherche d'emploi et des formations et l'accompagnement des entreprises dans leurs besoins en recrutement.
+
+
+Son Histoire et localisation
+Mada e-tech a été fondée d'il y a 2ans à Madagascar par Razafindrakoto Mamy. Pendant l'année 2021, les employés sont tous des télétravails chaqun travail dans sa maison, mais ils ont pensé à l'idée de mettre en local car il y a des petit problèmes perso pour chaque employés comme la coupure d'éléctricité, problèmes de santé, ... et aussi pour permettre de surveillé les employées pendant leur travail. en Avril 2023 quatre employer sont mis en local qui prend la poste de sourcing, après trois mois les extractions sont mis aussie en local et ensuite les Placements mais la plus part reste encore en Télétravail les placements.
+
+L'adresse exact de l'entreprise Mada E-tech est de Lot A 36 D Ambohijanaka Antananarivo MG, 102. Après avoir arrivé à "Sapananana Imerimanjaka" qui est un chemain croisé. Mada e-tech se trouve à 2,9km de route depuis cette route croisé vers la gauche.
+
+
+Son activité et ses membres
+Mada e-tech est un pionnier entant qu'agence de centre d'inforamtion depuis Madagascar qui aide les jeunes diplomé de France à intégrer dans le monde de travail.
+Mada e-tech est composé de 17 personnes en tous et 18 avec moi. Ses membres sont divisés en 4 postes: Extracteur, c'est une poste cruciale en extrait plusieurs CV à la recherche de talents dans la base de données de village de l'emploi car il y a des conditions de critère requises pour qu'on l'appel et aussi de les envoyé des invitations pour le système d'information. et ce qui fait l'appel des candidats en tant que ressources humaines ce sont les Sourcing pour les recruter pour qu'ils intègrent dans le monde de travail suivi d'une formation. Puis le poste de Placement qui fait une recherche de plusieurs entreprise pour l'integration des candidats qui ont fini leur formation qui sont à la recherche de travail. Ensuite, les développeur Informatique qui à pour rôle de faciliter les travails des 3 autres postes et aussi de leur aidé en installations de software et de ardware et reparer les disfonctionnement qui à rapport à informatique. Et pour finir le poste de RH de Mada e-tech qui gère l'entreprise.
+
+
+Objectif et Project
+Tout les entreprises, peu importe leur taille, sont des organisations. Il existe de nombreuses définitions des organisations, mais on retiendra la suivante: "Une organisation est la coordination rationnelle d'un certain nombre de personnes et de moyens en vue d'atteindre les objectifs qu'elle s'est fixées". Autrement dit, une organisation regroupe des personnes, des idées, des capitaux, pour atteindre un objectif. Mada e-tech a pour objectif d'ici 24 mois ou 2 ans de figurer parmi les entreprise de référence dans le domaine du système d'information en général. Leur project est aussi d'améliorer leur image surtout leur image sur le système d'information.
+
+Pour conclure, dans cette première partie que je vous ai présenté en détails les deux entités qui m'ont beaucoup aidé. CNTMAD qui est donc une université de télé-enseignement très connu dans son domaine et Mada e-tech qui est une entreprise pioner dans son secteur de système d'information.
+
+
+Poste pendant le stage
+Mon poste chez Mada e-tech était d'être un stagiaire en dévéloppement informatique, ce poste consistait a facilité les taches des autres employés ce qui consiste à facilité leur travail. par exemple j'ai conçu une méthode de data scrapping qui permet d'extraire automatiquement les informations ou les données à partir de site web. La site web en question ici c'est LinkedIn pour facilité la methode de recherche des contact dirigeant, entreprise, travail pour les consultant qui facilite les travail des employé de placements. Puis j'ai conçu une chatbot pour les whatsapp pour les employé d'extracteur de CV. Les extracteurs ont besoins d'un chatbot pour facilité leur tâche pour une réponse automatique des gens qui veullent accéder à la formation ou pas. au lieu de les répondre une par une ou de leur envoyé une invitation de formation pour accéder à la système d'information, alors dans cette situation que le chatbot sur whatsapp est un moyen de facilité leur tâche pour répondre automatiquement les attentes des candidats.
+    [photo logo LinkedIn whatsapp]
+ Et aussie du faire des travails de maintenance du côté ardware en installant les matériels informatiques ou réparer ce qui est en désordre. c'est a dire si il y a des chose qui ne fonctionne pas ou quelque chose à améliorer, c'est mon travail de les faire fonctionner. de même je suis aussi à la fois maintenance sur le côté réseau en installant les cables ethernet de vérifier la réseau sans fil si il marche ou pas ce qui assure le bon fonctionnement et la fiabilité au sein de l'entreprise.
+    [schéma illustrant la maintenance]
+
+
+Experience obtenue
+    La vie en société
+Mon stage chez Mada e-tech a été très instructif. Au cours de ce 1 mois, j'ai ainsi pu observer le fonctionnement d'une entreprise. Au delà de l'activité de chacun des services, j'ai pu apprendre comment s'articulent les différents département d'une telle entreprise. Par ailleurs, les relations humaines entre les différents employés de la société, indépendamment de l'activité exercée par chaqun d'eux, m'a appris sur le comportement à avoir en toute circonstance.
+
+
+Conclusion général
+Pour conclure, j'ai effectué mon stage de fin d'étude de Licence 3 en tant que stagiaire en développement de logiciel au sein de l'entreprise Mada e-tech. Lors de ce stage de 1 mois, j'ai pu mettre en pratique mes connaissances théoriques acquises durant ma formation sur le développement de logiciel et me suis confronté aux difficultés du monde de travail.
+Ce stage a été enrichissant pour moi, car il m'a permis de découvrir la domaine du développement de logiciel. Il m'a permis de participé concrètement à ses enjeux au travers mes missions. Ce stage m'a aussi permis de comprendre que les missions d'un développeur étaient les plus adaptés à mon profil. Je préfère ainsi approfondir mes connaissances en développement logiciel et aussi sur le développement Web. Cette experience de stage fut très constructive et m'a permis de répondre aux questionnements que j'avais en ce qui concerne les moyens utiliés pour le développement. L'entreprise qui m'a accueilli pendant ce stage était très accueillons et je suis très fier d'avoir pu y êtres. Fort de cette expérience et en réponse à ses enjeux, j'aimerai beaucoup par la suite essayer d'approfondir encore un peu plus mes connaissances dans le secteur de développement logiciel. Je tire un bilan très positif dans ce stage, qui fut une expérience tuès enrichissante tant sur le plan professionnel que personel. Sur le plan professionnel d'abord, j'ai pu appréhender toutes les facettes du métier. j'ai donc rempli les objectifs fixer. J'ai pu comprendre que travailler avec une équipe expérimentée dans leur domaine était un grand atout. 
 
 
 
