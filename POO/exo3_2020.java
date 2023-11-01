@@ -54,7 +54,7 @@ public class exo3_2020 {
             preparedStatement.setInt(1, 1);
             preparedStatement.setString(2, "Étudiant 1");
             preparedStatement.setString(3, "Prénom 1");
-            preparedStatement.executeUpdate();yyyyyyyyyyyyyyyyyyyy
+            preparedStatement.executeUpdate();
 
             preparedStatement.setInt(1, 2);
             preparedStatement.setString(2, "Étudiant 2");

@@ -1,0 +1,43 @@
+.386
+.model flat, stdcall
+option casemap :none
+
+include windows.inc
+include user32.inc
+includelib user32.lib
+
+.data
+    values db 1, 2, 3, 4, 5, 6
+    num_values equ 6
+    result_sum dd 0
+    result_avg dd 0
+
+.code
+main proc
+    xor eax, eax        ; eax est utilisé pour accumuler la somme
+    xor ebx, ebx        ; ebx est utilisé pour l'indice du tableau
+    xor ecx, ecx        ; ecx est utilisé pour accumuler la moyenne
+
+sum_loop:
+    add al, [values + ebx]
+    inc ebx
+    cmp ebx, num_values
+    jl sum_loop
+
+    mov [result_sum], eax
+
+    mov ecx, num_values
+    cdq                 ; Étendre edx pour la division
+    idiv ecx             ; eax = somme / num_values
+
+    mov [result_avg], eax
+
+    ; Afficher la somme et la moyenne
+    invoke StdOut, offset result_sum, 10
+    invoke StdOut, offset result_avg, 10
+
+    ; Terminer le programme
+    invoke ExitProcess, 0
+
+main endp
+end main

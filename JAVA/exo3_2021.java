@@ -6,7 +6,7 @@ public class exo3_2021 {
         int[] tableau = {2, 4, 3, 5, 6, 1}; // Vous pouvez changer les valeurs du tableau pour tester différentes configurations
         int sommeDonnee = 7;
 
-        ArrayList<Pair<Integer, Integer>> paires = trouverPairesSommeDonnee(tableau, sommeDonnee);  
+        ArrayList<Pair<Integer, Integer>> paires = trouverPairesSommeDonnee(tableau, sommeDonnee);
 
         System.out.println("Les paires dont la somme est " + sommeDonnee + " sont :");
         for (Pair<Integer, Integer> paire : paires) {
